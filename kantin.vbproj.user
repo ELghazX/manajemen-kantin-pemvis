@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminEditKasir.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminEditProduk.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminKasir.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminProduk.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminRiwayat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminTambahKasir.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminTambahProduk.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DetailTransaksi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KasirPesanan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KasirRiwayat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
