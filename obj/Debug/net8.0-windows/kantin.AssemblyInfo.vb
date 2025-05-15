@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("kantin"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+409ad12e4f95577e7f7d985d7b7ad24228c47679"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cabc330eb64a4d2026c34e520321ba0b54a4e1f"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("kantin"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("kantin"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

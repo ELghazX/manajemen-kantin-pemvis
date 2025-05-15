@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ytfra\\source\\repos\\kantin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D159E9F0-EC5E-4B3E-A970-B4AEBE1E868B}|kantin.vbproj|c:\\users\\ytfra\\source\\repos\\kantin\\admintambahkasir.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{D159E9F0-EC5E-4B3E-A970-B4AEBE1E868B}|kantin.vbproj|solutionrelative:admintambahkasir.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{D159E9F0-EC5E-4B3E-A970-B4AEBE1E868B}|kantin.vbproj|c:\\users\\ytfra\\source\\repos\\kantin\\admintambahproduk.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D159E9F0-EC5E-4B3E-A970-B4AEBE1E868B}|kantin.vbproj|solutionrelative:admintambahproduk.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D159E9F0-EC5E-4B3E-A970-B4AEBE1E868B}|kantin.vbproj|c:\\users\\ytfra\\source\\repos\\kantin\\admintambahkasir.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{D159E9F0-EC5E-4B3E-A970-B4AEBE1E868B}|kantin.vbproj|solutionrelative:admintambahkasir.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{D159E9F0-EC5E-4B3E-A970-B4AEBE1E868B}|kantin.vbproj|c:\\users\\ytfra\\source\\repos\\kantin\\admintambahproduk.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D159E9F0-EC5E-4B3E-A970-B4AEBE1E868B}|kantin.vbproj|solutionrelative:admintambahproduk.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D159E9F0-EC5E-4B3E-A970-B4AEBE1E868B}|kantin.vbproj|c:\\users\\ytfra\\source\\repos\\kantin\\admineditkasir.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
@@ -17,6 +17,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{D159E9F0-EC5E-4B3E-A970-B4AEBE1E868B}|kantin.vbproj|c:\\users\\ytfra\\source\\repos\\kantin\\admineditkasir.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{D159E9F0-EC5E-4B3E-A970-B4AEBE1E868B}|kantin.vbproj|solutionrelative:admineditkasir.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D159E9F0-EC5E-4B3E-A970-B4AEBE1E868B}|kantin.vbproj|c:\\users\\ytfra\\source\\repos\\kantin\\admintambahkasir.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D159E9F0-EC5E-4B3E-A970-B4AEBE1E868B}|kantin.vbproj|solutionrelative:admintambahkasir.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D159E9F0-EC5E-4B3E-A970-B4AEBE1E868B}|kantin.vbproj|c:\\users\\ytfra\\source\\repos\\kantin\\admintambahkasir.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D159E9F0-EC5E-4B3E-A970-B4AEBE1E868B}|kantin.vbproj|solutionrelative:admintambahkasir.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D159E9F0-EC5E-4B3E-A970-B4AEBE1E868B}|kantin.vbproj|c:\\users\\ytfra\\source\\repos\\kantin\\admineditproduk.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
@@ -58,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +74,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "AdminTambahProduk.vb",
+              "DocumentMoniker": "C:\\Users\\ytfra\\source\\repos\\kantin\\AdminTambahProduk.vb",
+              "RelativeDocumentMoniker": "AdminTambahProduk.vb",
+              "ToolTip": "C:\\Users\\ytfra\\source\\repos\\kantin\\AdminTambahProduk.vb",
+              "RelativeToolTip": "AdminTambahProduk.vb",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T22:45:59.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminTambahProduk.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ytfra\\source\\repos\\kantin\\AdminTambahProduk.vb",
+              "RelativeDocumentMoniker": "AdminTambahProduk.vb",
+              "ToolTip": "C:\\Users\\ytfra\\source\\repos\\kantin\\AdminTambahProduk.vb [Design]",
+              "RelativeToolTip": "AdminTambahProduk.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T22:45:57.279Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "AdminKasir.vb",
               "DocumentMoniker": "C:\\Users\\ytfra\\source\\repos\\kantin\\AdminKasir.vb",
               "RelativeDocumentMoniker": "AdminKasir.vb",
@@ -78,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "kantin.vbproj",
               "DocumentMoniker": "C:\\Users\\ytfra\\source\\repos\\kantin\\kantin.vbproj",
               "RelativeDocumentMoniker": "kantin.vbproj",
@@ -90,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Login.vb [Design]",
               "DocumentMoniker": "C:\\Users\\ytfra\\source\\repos\\kantin\\Login.vb",
               "RelativeDocumentMoniker": "Login.vb",
@@ -102,20 +135,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "AdminTambahKasir.vb",
               "DocumentMoniker": "C:\\Users\\ytfra\\source\\repos\\kantin\\AdminTambahKasir.vb",
               "RelativeDocumentMoniker": "AdminTambahKasir.vb",
               "ToolTip": "C:\\Users\\ytfra\\source\\repos\\kantin\\AdminTambahKasir.vb",
               "RelativeToolTip": "AdminTambahKasir.vb",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwB0AAABpAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-05-15T03:10:36.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T03:10:36.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "AdminTambahKasir.vb [Design]",
               "DocumentMoniker": "C:\\Users\\ytfra\\source\\repos\\kantin\\AdminTambahKasir.vb",
               "RelativeDocumentMoniker": "AdminTambahKasir.vb",
@@ -127,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "AdminKasir.vb [Design]",
               "DocumentMoniker": "C:\\Users\\ytfra\\source\\repos\\kantin\\AdminKasir.vb",
               "RelativeDocumentMoniker": "AdminKasir.vb",
@@ -139,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "AdminEditProduk.vb",
               "DocumentMoniker": "C:\\Users\\ytfra\\source\\repos\\kantin\\AdminEditProduk.vb",
               "RelativeDocumentMoniker": "AdminEditProduk.vb",
@@ -151,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "AdminEditProduk.vb [Design]",
               "DocumentMoniker": "C:\\Users\\ytfra\\source\\repos\\kantin\\AdminEditProduk.vb",
               "RelativeDocumentMoniker": "AdminEditProduk.vb",
@@ -169,10 +201,9 @@
               "RelativeDocumentMoniker": "AdminEditKasir.vb",
               "ToolTip": "C:\\Users\\ytfra\\source\\repos\\kantin\\AdminEditKasir.vb",
               "RelativeToolTip": "AdminEditKasir.vb",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAtwDcAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-05-15T03:06:32.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T03:06:32.507Z"
             },
             {
               "$type": "Document",
@@ -188,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "DetailTransaksi.vb",
               "DocumentMoniker": "C:\\Users\\ytfra\\source\\repos\\kantin\\DetailTransaksi.vb",
               "RelativeDocumentMoniker": "DetailTransaksi.vb",
@@ -200,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "DetailTransaksi.vb [Design]",
               "DocumentMoniker": "C:\\Users\\ytfra\\source\\repos\\kantin\\DetailTransaksi.vb",
               "RelativeDocumentMoniker": "DetailTransaksi.vb",

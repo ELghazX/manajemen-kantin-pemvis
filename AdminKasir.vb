@@ -95,10 +95,5 @@ Public Class AdminKasir
         LoadKasir(BoxCari.Text.Trim())
     End Sub
 
-    Private Sub BtnKeluar_Click_1(sender As Object, e As EventArgs) Handles BtnKeluar.Click
-        Dim f As New Login()
-        Me.Close()
-        f.Show()
-    End Sub
 
 End Class
