@@ -43,3 +43,4 @@ C:\Users\ytfra\source\repos\kantin\obj\Debug\net8.0-windows\kantin.AdminTambahPr
 C:\Users\ytfra\source\repos\kantin\obj\Debug\net8.0-windows\kantin.AdminEditProduk.resources
 C:\Users\ytfra\source\repos\kantin\obj\Debug\net8.0-windows\kantin.AdminTambahKasir.resources
 C:\Users\ytfra\source\repos\kantin\obj\Debug\net8.0-windows\kantin.AdminEditKasir.resources
+C:\Users\ytfra\source\repos\kantin\obj\Debug\net8.0-windows\kantin.sourcelink.json

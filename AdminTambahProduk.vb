@@ -36,6 +36,12 @@ Public Class AdminTambahProduk
             Exit Sub
         End If
 
+        If harga <= 0 Then
+            MessageBox.Show("Harga tidak boleh nol atau kurang!", "Peringatan", MessageBoxButtons.OK, MessageBoxIcon.Warning)
+            BoxHarga.Focus()
+            Exit Sub
+        End If
+
         Dim status As String = ""
         If rbAktif.Checked Then
             status = "Aktif"

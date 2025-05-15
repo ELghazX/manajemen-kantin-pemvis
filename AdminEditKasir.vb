@@ -16,7 +16,7 @@ Public Class AdminEditKasir
 
         Dim query As String = "SELECT COUNT(*) FROM user WHERE email = @email"
         If excludeId <> -1 Then
-            query &= " AND id <> @id AND is_deleted <> 1"
+            query &= " AND id <> @id"
         End If
 
         Dim cmd As New MySqlCommand(query, conn)
@@ -49,7 +49,7 @@ Public Class AdminEditKasir
         End If
 
         Connect()
-        Dim cekCmd As New MySqlCommand("SELECT COUNT(*) FROM user WHERE email = @email AND id <> @id", conn)
+        Dim cekCmd As New MySqlCommand("SELECT COUNT(*) FROM user WHERE email = @email AND id <> @id AND is_deleted <> 1", conn)
         cekCmd.Parameters.AddWithValue("@email", BoxEmail.Text.Trim())
         cekCmd.Parameters.AddWithValue("@id", idUser)
         Dim ada As Integer = Convert.ToInt32(cekCmd.ExecuteScalar())
@@ -124,4 +124,7 @@ Public Class AdminEditKasir
         f.Show()
     End Sub
 
+    Private Sub AdminEditKasir_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    End Sub
 End Class
